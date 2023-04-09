@@ -10,9 +10,9 @@
 #### 使用说明
 
 1.  进入到src目录下
-2.  修改名为config的文件中的信息 
-    第一行：dependency-track服务器的地址；
-    第二行：dependency-track服务器的用户令牌；
+2.  修改名为config的文件中的信息   
+第一行：dependency-track服务器的地址；  
+第二行：dependency-track服务器的用户令牌；
 3.  在当前目录下，打开支持shell命令的工具
 4.  输入执行命令（a和b二选一）  
 a.从远程git仓库检查：  
