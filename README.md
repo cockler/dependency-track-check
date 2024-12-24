@@ -5,7 +5,7 @@
 <h3>Your star is my motivation to keep going. If you like this project, please help me with a star in the upper right corner.</h3>
 
 #### Description
-This project is a third-party open-source library vulnerability scanning tool. By running shell scripts, it is easy to scan for vulnerabilities in third-party open source libraries introduced in the project and upload the results to the Dependency-Track server.
+This project is a third-party open-source library vulnerability scanning tool. By running shell scripts, it is easy to scan for vulnerabilities in third-party open source libraries introduced in your projects and upload the results to the Dependency-Track server.
 
 #### Software Architecture
 Use Maven's dependency-track plugin to check the code library and upload the results to the Dependency-Track server.
@@ -28,11 +28,11 @@ Description: Receive three parameters, separated by spaces between them. The fir
 #### Attentions
 1.  Install git locally and configure global environment variables
 2.  Install Maven locally and configure global environment variables
-3.  The project is built on Maven
+3.  The project for scanning is built on Maven
 
 #### Contribution
 
 1.  Fork the repository
 2.  Create Feat_xxx branch
-3.  Commit your code
+3.  Commit your codes
 4.  Create Pull Request
